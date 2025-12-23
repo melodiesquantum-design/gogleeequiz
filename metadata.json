@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Quiz & Media Studio",
+  "description": "An advanced quiz application featuring AI-powered question generation with search grounding, image editing with Nano Banana models, and a high-intelligence chatbot with thinking mode.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
